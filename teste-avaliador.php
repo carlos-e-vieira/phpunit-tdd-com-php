@@ -31,4 +31,3 @@ if ($valorEsperado == $maiorValor) {
 } else {
     echo "TESTE FALHOU";
 }
-
